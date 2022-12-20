@@ -1,4 +1,4 @@
-# FAS-1-Single-File
+# FAS-1-Single-Module
 
 Contains a working example of a single file Flask App
 
