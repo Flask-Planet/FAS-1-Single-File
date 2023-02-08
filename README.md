@@ -1,13 +1,18 @@
 # FAS-1-Single-Module
+
 (FAS, Flask App Structure)
 
-Contains a working example of a single file Flask App
-
-![](https://github.com/creativecommons/cc-assets/blob/main/license_badges/small/cc_zero.svg)
+Contains a working example of a Flask App setup in a single module.
 
 ### Attribution
 
 [CheeseCake87 (David Carmichael)](https://github.com/CheeseCake87)
+
+### License
+
+See: [LICENSE](LICENSE)
+
+Viewing the source code of this project acknowledges that you have read and understood the license.
 
 ### Setup
 
@@ -49,7 +54,9 @@ pip install -r requirements.txt
 ```bash
 flask run
 ```
+
 or
+
 ```bash
 python3 app.py
 ```
@@ -57,7 +64,6 @@ python3 app.py
 ---
 
 ### Windows
-
 
 **Create a virtual environment and activate it.**
 
@@ -80,7 +86,9 @@ pip install -r requirements.txt
 ```bash
 flask run
 ```
+
 or
+
 ```bash
 python app.py
 ```
